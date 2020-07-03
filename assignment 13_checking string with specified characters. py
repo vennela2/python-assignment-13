@@ -1,0 +1,5 @@
+a="good morning"
+if(a.startswith("g")):
+	print("true")
+else:
+	print("false")

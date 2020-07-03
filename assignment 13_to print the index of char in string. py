@@ -1,0 +1,3 @@
+string="akshara"
+s=string.find('k')
+print(s)
